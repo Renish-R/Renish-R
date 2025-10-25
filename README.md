@@ -2,7 +2,7 @@
 
 B.Tech - IT Student @ Ponjesly College of Engineering
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://github.com/Renish-R)  
+- 🔭 Here's my [portfolio](https://www.devrenish.com/)  
 - 🌱 I’m currently learning and guiding others in **DSA** and **Backend Development**  
 - 🎓 Gaining knowledge through **self-study** and **online courses** driven by my own interests  
 - 💼 Strong skills in **team collaboration** and **leadership**
