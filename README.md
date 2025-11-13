@@ -6,7 +6,11 @@ B.Tech - IT Student @ Ponjesly College of Engineering
 - 🎓 Gaining knowledge through **self-study** and **online courses** driven by my own interests  
 - 💼 Strong skills in **team collaboration** and **leadership**
 - Social Presence:
-  <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renish-r/)
+  <br />
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/renish-r/)
+  [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/Renish-R/)
+  
+  
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/nolan/96/three-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/office/96/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/96/null/graphql.png"/>
